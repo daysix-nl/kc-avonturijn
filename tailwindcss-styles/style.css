@@ -704,22 +704,6 @@ video {
   padding-top: 40px;
   padding-bottom: 40px;
 }
-.py-\[110px\] {
-  padding-top: 110px;
-  padding-bottom: 110px;
-}
-.px-\[116px\] {
-  padding-left: 116px;
-  padding-right: 116px;
-}
-.py-7 {
-  padding-top: 70px;
-  padding-bottom: 70px;
-}
-.px-2 {
-  padding-left: 20px;
-  padding-right: 20px;
-}
 .py-\[90px\] {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -728,11 +712,16 @@ video {
   padding-left: 90px;
   padding-right: 90px;
 }
+.px-2 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.py-7 {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
 .pt-4 {
   padding-top: 40px;
-}
-.pb-1 {
-  padding-bottom: 10px;
 }
 .pt-\[90px\] {
   padding-top: 90px;
@@ -748,6 +737,9 @@ video {
 }
 .pb-6 {
   padding-bottom: 60px;
+}
+.pb-1 {
+  padding-bottom: 10px;
 }
 .pt-\[50px\] {
   padding-top: 50px;
